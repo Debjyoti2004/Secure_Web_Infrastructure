@@ -67,12 +67,3 @@ This project focuses on optimizing AWS infrastructure to provide a secure, scala
    - Upload deployment artifacts to Amazon S3.
    - Implement continuous integration and deployment processes.
 
-## Documentation
-
-- **Setup Documentation:** Detailed setup instructions and configurations are provided in the documentation folder.
-
-## Conclusion
-
-This AWS infrastructure setup delivers a secure, scalable, and efficient web environment. It ensures optimal performance and security for both frontend and backend services.
-
-
